@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiantorres86" alt="sebastiantorres86" /> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Full Stack Open Course**
 
 - 🌱 I’m currently learning **React JS**
 
